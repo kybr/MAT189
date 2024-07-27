@@ -1,28 +1,4 @@
-
-
-
-
-
-
-# Day 1
-
-
-
-<img src="kybr.github.io.png" alt="kybr.github.io" style="zoom:50%;" />
-
-
-
-
-
-
-
-<img src="kybr.github.io.png" alt="kybr.github.io" style="with:10;" />
-
-
-
-
-
-## 1) Make a business card
+## Make a business card
 
 - Create a GitHub account
   - <https://github.com>
