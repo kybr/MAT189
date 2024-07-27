@@ -2,7 +2,7 @@
 
 
 
-- [Make a Business Card](Make-a-Business-Card.md)
+- [Make a Business Card](assignment/Make-a-Business-Card.md)
 
 
 
@@ -28,7 +28,7 @@
 
 
 
-<img src="kybr.github.io.png" alt="kybr.github.io" style="zoom:50%;" />
+<img src="image/kybr.github.io.png" alt="kybr.github.io" style="zoom:50%;" />
 
 
 
@@ -36,4 +36,4 @@
 
 
 
-<img src="github.com-kybr-MAT189.png" style="zoom:50%;" />
+<img src="image/github.com-kybr-MAT189.png" style="zoom:50%;" />
