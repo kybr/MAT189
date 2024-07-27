@@ -8,7 +8,7 @@
 
 
 
-![](kybr.github.io.png)
+<img src="kybr.github.io.png" style="zoom:50%;" />
 
 
 
