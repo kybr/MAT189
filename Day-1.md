@@ -12,6 +12,16 @@
 
 
 
+
+
+
+
+<img src="kybr.github.io.png" alt="kybr.github.io" style="with:10;" />
+
+
+
+
+
 ## 1) Make a business card
 
 - Create a GitHub account
