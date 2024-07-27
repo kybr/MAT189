@@ -3,6 +3,7 @@
 #### Lecture
 
 - [This Class](lecture/This-Class.md)
+- [On Portfolio](lecture/On-Portfolio.md)
 
 
 #### Assignment
