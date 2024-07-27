@@ -8,7 +8,7 @@
 
 
 
-<img src="kybr.github.io.png" style="zoom:50%;" />
+<img src="kybr.github.io.png" style="zoom:25%;" />
 
 
 
