@@ -12,7 +12,7 @@
 
 - Create a GitHub account
   - <https://github.com>
-  - Pick a good handle. I am [kybr](https://kybr.github.com) on GitHub
+  - Pick a good handle. I am [kybr](https://kybr.github.io) on GitHub
   - Email me your GitHub handle <yerkes@ucsb.edu>
 - Create a github pages site
   - <https://pages.github.com>
