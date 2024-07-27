@@ -1,4 +1,4 @@
-## Make a business card
+## Make a Business Card
 
 - Create a GitHub account
   - <https://github.com>
