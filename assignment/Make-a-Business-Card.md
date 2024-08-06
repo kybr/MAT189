@@ -57,5 +57,5 @@ In the end, you might have something like this:
 
 **kybr.github.io**
 
-<img src="../image/kybr.github.io.png" alt="kybr.github.io" style="zoom:50%;" />
+<img src="../image/kybr.github.io.png" alt="kybr.github.io" width="400" />
 
