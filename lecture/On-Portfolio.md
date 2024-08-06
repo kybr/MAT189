@@ -1,5 +1,7 @@
 ## On Portfolio
 
+Email a link to your website/portfolio to <yerkes@ucsb.edu>. **Make the subject exactly this "portfolio banana".** I will search my email for "portfolio banana" to find your link.
+
 
 ### Websites for Portfolio Building
 
@@ -25,7 +27,7 @@
 - <https://aws.amazon.com/websites>
 
 
-### Good Portfolio
+### Portfolio
 
 - <https://jmescalante.com>
 - <https://nworb.io>
