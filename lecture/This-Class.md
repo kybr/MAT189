@@ -34,4 +34,4 @@ Each week you will deliver brief reports on the improvements you make.
 
 <https://github.com/kybr/MAT189>
 
-<img src="../image/github.com-kybr-MAT189.png" style="zoom:50%;" />
+<img src="../image/github.com-kybr-MAT189.png" width="400" />
