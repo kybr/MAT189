@@ -44,13 +44,8 @@
 - <https://www.agapea.si/en>
 - <https://katarinapetrovic.net>
 
-### Great Portfolio (?) Example
 
-- <http://web.archive.org/web/20230519141423/https://teh.kim>
+**What about this?**
+
 - <https://teh.kim>
-
-### Gallery Program
-
-<https://show.mat.ucsb.edu>
-
-
+- <http://web.archive.org/web/20230519141423/https://teh.kim>
