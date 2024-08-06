@@ -16,7 +16,7 @@ You must come to every class well-rested to work. Attendance is required. I'll t
 
 #### Assignments
 
-Your default assignment due every day is always: Make or inprove your digital portfolio (website). We will look at your portfolio in class and judge it. Each week you will deliver breif reports on the improvements you make.
+Your default assignment due every day is always: Make or inprove your digital portfolio (website). We will look at your portfolio in class and judge it. Each week you will deliver breif reports on the improvements you make. Email <yerkes@ucsb.edu> your portfolio report by 5pm each Monday.
 
 I may assign other work from time to time.
 
