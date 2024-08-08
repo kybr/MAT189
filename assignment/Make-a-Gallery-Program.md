@@ -75,5 +75,9 @@ Here is an example of a Gallery Program:
 
 For each of your projects, make the necessary elements: Title, Author list, Image, Abstract. Add these to your Gallery Program site by filling in the appropriate HTML tags with your content. Make a QR code that leads to the URL of your gallery and bring that QR code to class on Tuesday.
 
+Email a link to your gallery to <yerkes@ucsb.edu>. **Make the subject exactly this "gallery banana".** I will search my email for "gallery banana" to find your link. I mean your gallery, not your business card. Mine is <https://kybr.github.io/gallery>. What is yours?
+
+
+
 
 

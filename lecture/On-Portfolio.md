@@ -1,9 +1,5 @@
 ## On Portfolio
 
-**Due today:** If you have one, email a link to your website/portfolio to <yerkes@ucsb.edu>. **Make the subject exactly this "portfolio banana".** I will search my email for "portfolio banana" to find your link. I mean a port folio, not your business card. If you do not have a portfolio yet, do not email one.
-
-
-
 
 
 #### Elements of a portfolio
