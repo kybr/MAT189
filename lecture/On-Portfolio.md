@@ -14,7 +14,7 @@
 
     - Title
 
-    - Image
+    - Image / Video
 
     - Abstract / Treatment
 
