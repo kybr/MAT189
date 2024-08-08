@@ -1,6 +1,38 @@
 ## On Portfolio
 
-Email a link to your website/portfolio to <yerkes@ucsb.edu>. **Make the subject exactly this "portfolio banana".** I will search my email for "portfolio banana" to find your link.
+**Due today:** If you have one, email a link to your website/portfolio to <yerkes@ucsb.edu>. **Make the subject exactly this "portfolio banana".** I will search my email for "portfolio banana" to find your link. I mean a port folio, not your business card. If you do not have a portfolio yet, do not email one.
+
+
+
+
+
+#### Elements of a portfolio
+
+- A bio
+
+- A way to contact you
+
+- A list of projects
+
+  - Each project has....
+
+    - Title
+
+    - Image
+
+    - Abstract / Treatment
+
+    - Author list
+
+
+
+
+
+
+
+
+
+
 
 
 ### Websites for Portfolio Building
@@ -47,7 +79,10 @@ Email a link to your website/portfolio to <yerkes@ucsb.edu>. **Make the subject 
 - <https://katarinapetrovic.net>
 
 
+
+
 **What about this?**
 
 - <https://teh.kim>
 - <http://web.archive.org/web/20230519141423/https://teh.kim>
+- https://abramclark.github.io/resume
