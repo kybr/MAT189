@@ -38,3 +38,12 @@ function draw() {
 ```
 
 Add the code above to a net file (`sketch.js`) in your GitHub Pages repository.
+
+The code may also be found here:
+
+<https://editor.p5js.org/kybr/sketches/lsPfBtEGIH>
+
+Go to this link and "duplicate" the code to start your own sketch. In the editor, choose File > Duplicate.
+
+
+
