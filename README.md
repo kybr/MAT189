@@ -16,3 +16,4 @@
 
 - **Friday by 5pm:** Email <yerkes@ucsb.edu> a link to your business card site. Make the subject exactly: "business banana".
 - **Monday by 5pm:** Email <yerkes@ucsb.edu> a link to your gallery program site. Make the subject exactly: "gallery banana".
+- **Monday by 5pm:** Email <yerkes@ucsb.edu> an update on your portfolio; What changed? Why? Design your portfolio!
