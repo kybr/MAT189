@@ -10,6 +10,7 @@
 
 - [Make a Business Card](assignment/Make-a-Business-Card.md)
 - [Make a Gallery Program](assignment/Make-a-Gallery-Program.md)
+- [An Interactive Animation](assignment/An-Interactive-Animation.md)
 
 #### Due
 
