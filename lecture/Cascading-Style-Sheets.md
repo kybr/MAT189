@@ -49,13 +49,9 @@ Use CSS "flexbox" to contain your projects and make your portfolio responsive to
 <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/p5.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/addons/p5.sound.min.js"></script>
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-    <!--- <script src="sketch.js"></script> -->
-
     <div class="container">
       <div class="project" id="project1">1</div>
       <div class="project" id="project2">2</div>
@@ -100,7 +96,6 @@ Use CSS "flexbox" to contain your projects and make your portfolio responsive to
 #project6 {
   background-color: hsl(180, 100%, 70%);
 }
-
 
 @media (max-width: 800px) {
   .container {
