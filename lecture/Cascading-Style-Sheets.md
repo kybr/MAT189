@@ -5,7 +5,7 @@
 
 ## CSS
 
-Say how HTML tags should look. Specify style rules for tags, ids, and classes.
+Say how HTML tags should look. Specify style rules for tags, ids, and classes. Determine the default "look and feel" of webpage elements.
 
 
 
