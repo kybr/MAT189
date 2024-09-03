@@ -26,6 +26,20 @@ tag {
 ```
 
 
+[Properties](https://www.w3schools.com/cssref/index.php):
+
+```css
+div {
+  width: 100px; // width of the rectangle
+  height: 100px;
+  color: pink; // color of the inner HTML
+  background: black;
+  border-radius: 15px; // amount of rounding of the rectangle
+}
+```
+
+
+
 ## Flexbox
 
 ```html
@@ -93,16 +107,4 @@ tag {
 }
 ```
 
-
-[Properties](https://www.w3schools.com/cssref/index.php):
-
-```css
-div {
-  width: 100px; // width of the rectangle
-  height: 100px;
-  color: pink; // color of the inner HTML
-  background: black;
-  border-radius: 15px; // amount of rounding of the rectangle
-}
-```
 
