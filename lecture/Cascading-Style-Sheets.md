@@ -42,6 +42,8 @@ div {
 
 ## Flexbox
 
+Use CSS "flexbox" to contain your projects and make your portfolio responsive to mobile devices. The code below fits projects to the desktop browser window and transitions to single-column format for mobile devices.
+
 ```html
 <!DOCTYPE html>
 <html>
