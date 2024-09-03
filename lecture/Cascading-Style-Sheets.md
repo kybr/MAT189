@@ -28,7 +28,7 @@ tag {
 
 ## Flexbox
 
-```hrml
+```html
 <!DOCTYPE html>
 <html>
   <head>
