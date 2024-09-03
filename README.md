@@ -4,6 +4,7 @@
 
 - [This Class](lecture/This-Class.md)
 - [On Portfolio](lecture/On-Portfolio.md)
+- [Cascading Style Sheets](lecture/Cascading-Style-Sheets.md)
 
 
 #### Assignment
