@@ -4,7 +4,7 @@
 - alignment (grid system)
 - sans-serif fonts
 - less is more (minimalism)
-- contrast (brightness, color, size)
+- contrast (brightness, color, size) emphasis differences
 - repitition
 - proximity (group related items)
 
